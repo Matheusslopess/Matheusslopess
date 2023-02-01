@@ -11,9 +11,6 @@
 
 <h2 align="center">
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusslopess&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusslopess&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 </h2>
 
 <h2 align="center"> 🛠️  T E C N O L O G I A S  🛠️
